@@ -1,0 +1,22 @@
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio cache/options
+.vscode/
+.vs/
+*.userprefs
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Selenium WebDriver download folder (optional, if you store chromedriver separately)
+driver/

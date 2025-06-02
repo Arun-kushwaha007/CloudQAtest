@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudQATest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754b0826729cb267ce64a7ac66e058122907119c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf442059dee98f357e38015de1cb94cd54f38d43")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudQATest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudQATest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
